@@ -38,6 +38,10 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=DM+Sans:opsz@9..40&family=Oxanium&display=swap" rel="stylesheet">
 
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Comfortaa&display=swap" rel="stylesheet">
+
 <!--===BOOTSTRAP CDN--------------------------------------------------------------------------------------------------->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
 
@@ -64,19 +68,19 @@
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
                     <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
                         <li class="nav-item">
-                            <a class="nav-link" href="#">Home</a>
+                            <a class="nav-link" id="links" href="#">Home</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="#">about</a>
+                            <a class="nav-link" id="links" href="#">about</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="#">blog</a>
+                            <a class="nav-link" id="links" href="#">blog</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="#">episodes</a>
+                            <a class="nav-link" id="links" href="#">episodes</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="#">Contact us</a>
+                            <a class="nav-link" id="links" href="#">Contact us</a>
                         </li>
                         <li class="nav-item">
                             <a href="index.php" class="start">test 123</a></li>

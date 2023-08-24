@@ -10,8 +10,10 @@
         --DM-Sans:'DM Sans', sans-serif;
         --Jost-font:'Jost', sans-serif;
         --Raleway-font: 'Raleway', sans-serif;
-        --Oxanium-font:'Oxanium', cursive;
+        --Oxanium-font: 'Oxanium', cursive;
+        --Comfortaa-font: 'Comfortaa', cursive;
         --white-color: #ffffff;
+        --dark-shade: rgba(0, 0, 0, 0.5);
         --red-color: #ff0000;
         --black-color:#000000;
     }
@@ -30,16 +32,15 @@
     }
 
     .carousel-caption {
-        bottom: 200px;
+        bottom: 220px;
         z-index: 2;
     }
 
     .carousel-caption h5 {
-        font-size: 3.2rem;
+        font-size: 3.5rem;
         letter-spacing: 2px;
         text-transform: uppercase;
-        margin-top: 30px;
-
+        margin-top: 20px;
     }
 
     .carousel-caption p {
@@ -61,9 +62,57 @@
         font-weight: 500;
         margin-top: 15px;
         border-radius: 3px;
+        margin-bottom: 15px;
     }
 
     .carousel-caption a:hover {
         background: var(--black-color);
         color: var(--red-color);
     }
+
+    .carousel-inner:before {
+        content: '';
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        top: 0;
+        left: 0;
+        background: var(--dark-shade);
+        z-index: 1;
+    }
+
+    .navbar .start {
+        background: var(--red-color);
+        color: var(--white-color);
+        margin-left: 30px;
+        border-radius: 3px;
+        font-weight: 500;
+        text-decoration: none;
+        padding: 0.2rem 0.8rem;
+        line-height: 2.0;
+        text-transform: uppercase;
+        font-family: var(--Oxanium-font);
+        display: flex;
+    }
+
+    .navbar .nav-link {
+        /*font-family: var(--Jost-font);*/
+        font-family: 'Syncopate', sans-serif;
+        text-transform: uppercase;
+        font-size: 1rem;
+        font-weight: 600;
+    }
+
+    #links {
+        color: var(--black-color);
+    }
+
+    #links:hover {
+        color: var(--red-color);
+    }
+
+    .navbar .start:hover {
+        background: var(--black-color);
+        color: var(--red-color);
+    }
+
