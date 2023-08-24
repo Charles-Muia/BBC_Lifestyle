@@ -1,0 +1,46 @@
+    * {
+        font-family: 'Raleway', sans-serif;
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+
+    :Root {
+        --Prudu-font:'Phudu', cursive;
+        --DM-Sans:'DM Sans', sans-serif;
+        --Jost-font:'Jost', sans-serif;
+    }
+
+
+/*--===NAVBAR CSS-----------------------------------------------------------------------------------------------------*/
+    .Logo {
+        width: 120px;
+    }
+
+/*--===CAROUSEL CSS---------------------------------------------------------------------------------------------------*/
+
+    .carousel-item {
+        height: 80vh;
+        min-height: 300px;
+    }
+
+    .carousel-caption {
+        bottom: 200px;
+        z-index: 2;
+    }
+
+    .carousel-caption h5 {
+        font-size: 3.2rem;
+        letter-spacing: 2px;
+        text-transform: uppercase;
+        margin-top: 30px;
+
+    }
+
+    .carousel-caption p {
+        width: 70%;
+        margin: auto;
+        font-size: 20px;
+        line-height: 2.0;
+        font-family: var(--Jost-font)
+    }
