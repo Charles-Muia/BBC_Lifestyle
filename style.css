@@ -24,10 +24,17 @@
         width: 120px;
     }
 
+    .navbar-toggler {
+        padding: 2px 6px;
+        font-size: 20px;
+        line-height: 0.5;
+        background: var(--white-color);
+    }
+
 /*--===CAROUSEL CSS---------------------------------------------------------------------------------------------------*/
 
     .carousel-item {
-        height: 80vh;
+        height: 85vh;
         min-height: 300px;
     }
 
@@ -40,7 +47,7 @@
         font-size: 3.5rem;
         letter-spacing: 2px;
         text-transform: uppercase;
-        margin-top: 20px;
+        /*margin-top: 20px;*/
     }
 
     .carousel-caption p {
@@ -57,8 +64,8 @@
         background: var(--red-color);
         padding: 5px 20px;
         display: inline-block;
-        color: var(--white-color);
-        font-family: var(--Oxanium-font);
+        color: #f4f4f4;
+        font-family: 'Syncopate', sans-serif;
         font-weight: 500;
         margin-top: 15px;
         border-radius: 3px;
@@ -86,33 +93,47 @@
         color: var(--white-color);
         margin-left: 30px;
         border-radius: 3px;
-        font-weight: 500;
+        font-weight: 600;
         text-decoration: none;
         padding: 0.2rem 0.8rem;
         line-height: 2.0;
         text-transform: uppercase;
-        font-family: var(--Oxanium-font);
+        /*font-family: var(--Oxanium-font);*/
         display: flex;
+        font-family: 'Syncopate', sans-serif;
+    }
+
+    .navbar .start:hover {
+        color: var(--red-color);
+        background: var(--black-color);
     }
 
     .navbar .nav-link {
         /*font-family: var(--Jost-font);*/
         font-family: 'Syncopate', sans-serif;
         text-transform: uppercase;
-        font-size: 1rem;
-        font-weight: 600;
+        font-size: 1.1rem;
+        /*font-weight: 600;*/
+    }
+
+    .navbar-light .navbar-brand {
+        letter-spacing: 3px;
+    }
+
+    .navbar-light .navbar-brand span {
+        color: var(--red-color);
     }
 
     #links {
         color: var(--black-color);
+        letter-spacing: 3px;
     }
 
     #links:hover {
         color: var(--red-color);
     }
 
-    .navbar .start:hover {
-        background: var(--black-color);
-        color: var(--red-color);
+    .w-100 {
+        height: 85vh;
     }
 

@@ -2,7 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d47d33b1-cd98-4841-99e6-dd1926e3c5ed" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Pics/348593999_659041602935688_6583294697941452846_n.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pics/74464964_2267951676793479_3674141129256730624_n.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pics/Bathroom.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pics/CDWM_ZA.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pics/CDWM_ZA1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pics/CDWM_ZA2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pics/CDWM_ZA3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pics/ComeDineWithMe.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pics/ComeDineWithMe.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pics/Come_Dine_with_Me.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pics/Cook.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pics/Home_Grown.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pics/Listing.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pics/Prog.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pics/masterchef.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pics/masterchef_.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pics/maxresdefault.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pics/maxresdefault_2.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pics/CDWM_ZA1" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
@@ -28,12 +47,15 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2UO0XKkf0HyGsSk05fWeQbM25Rz" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -51,11 +73,25 @@
       <updated>1692795397846</updated>
       <workItem from="1692795444684" duration="5000" />
       <workItem from="1692795512457" duration="918000" />
-      <workItem from="1692861109852" duration="10910000" />
+      <workItem from="1692861109852" duration="18966000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
