@@ -9,6 +9,11 @@
         --Prudu-font:'Phudu', cursive;
         --DM-Sans:'DM Sans', sans-serif;
         --Jost-font:'Jost', sans-serif;
+        --Raleway-font: 'Raleway', sans-serif;
+        --Oxanium-font:'Oxanium', cursive;
+        --white-color: #ffffff;
+        --red-color: #ff0000;
+        --black-color:#000000;
     }
 
 
@@ -43,4 +48,22 @@
         font-size: 20px;
         line-height: 2.0;
         font-family: var(--Jost-font)
+    }
+
+    .carousel-caption a {
+        text-transform: uppercase;
+        text-decoration: none;
+        background: var(--red-color);
+        padding: 5px 20px;
+        display: inline-block;
+        color: var(--white-color);
+        font-family: var(--Oxanium-font);
+        font-weight: 500;
+        margin-top: 15px;
+        border-radius: 3px;
+    }
+
+    .carousel-caption a:hover {
+        background: var(--black-color);
+        color: var(--red-color);
     }
