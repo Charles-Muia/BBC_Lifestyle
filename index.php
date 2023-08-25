@@ -43,7 +43,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Comfortaa&display=swap" rel="stylesheet">
 
 <!--===BOOTSTRAP CDN--------------------------------------------------------------------------------------------------->
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/css/bootstrap.min.css" rel="stylesheet">
 
 <!--===BOXICONS CDN---------------------------------------------------------------------------------------------------->
     <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
@@ -98,7 +98,7 @@
                 <div class="carousel-item active">
                     <img src="Pics/maxresdefault_2.jpg"  alt="..." class="d-block w-100" >
                     <div class="carousel-caption">
-                        <h5 class="animated fadeInDown" style="animation-delay: 2s">come dine with me</h5>
+                        <h5 class="animated fadeInDown" style="animation-delay: 2s">come dine <br> with me</h5>
                         <p class="animated fadeInUp d-none d-md-block" style="animation-delay: 3s">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maxime, nulla, tempore. Deserunt excepturi quas vero.</p>
                         <p class="animated fadeInUp" style="animation-delay: 4s"><a href="#">Learn More</a></p>
                     </div>
@@ -106,7 +106,7 @@
                 <div class="carousel-item">
                     <img src="Pics/masterchef.jpg"  alt="..." class="d-block w-100" >
                     <div class="carousel-caption">
-                        <h5 class="animated fadeInDown" style="animation-delay: 2s">master chef: The Professionals</h5>
+                        <h5 class="animated fadeInDown" style="animation-delay: 2s">master chef: The <br> Professionals</h5>
                         <p class="animated fadeInUp d-none d-md-block" style="animation-delay: 3s">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maxime, nulla, tempore. Deserunt excepturi quas vero.</p>
                         <p class="animated fadeInUp" style="animation-delay: 4s"><a href="#">Learn More</a></p>
                     </div>
@@ -114,7 +114,7 @@
                 <div class="carousel-item">
                     <img src="Pics/Bathroom.jpg"  alt="..." class="d-block w-100" >
                     <div class="carousel-caption">
-                        <h5 class="animated fadeInDown" style="animation-delay: 2s">the great british bake off </h5>
+                        <h5 class="animated fadeInDown" style="animation-delay: 2s">the Great british <br> bake off </h5>
                         <p class="animated fadeInUp d-none d-md-block" style="animation-delay: 3s">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maxime, nulla, tempore. Deserunt excepturi quas vero.</p>
                         <p class="animated fadeInUp" style="animation-delay: 4s"><a href="#">Learn More</a></p>
                     </div>
@@ -129,7 +129,7 @@
 <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.3/dist/umd/popper.min.js"></script>
 
 <!----===SEPARATE------------------------------------------------------------------------------------------------------>
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/js/bootstrap.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/js/bootstrap.min.js"></script>
 
 </body>
 </html>
