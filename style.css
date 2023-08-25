@@ -137,3 +137,33 @@
         height: 85vh;
     }
 
+/*--===MEDIA QUERY CSS------------------------------------------------------------------------------------------------*/
+
+    @media only screen and (max-width: 767px) {
+
+        .navbar-nav {
+            text-align: center;
+        }
+
+        .navbar .start {
+            display: none;
+        }
+
+        .carousel-caption {
+            top: 140px;
+        }
+
+        .carousel-caption h5 {
+            font-size: 45px;
+            margin-top: 20px;
+            letter-spacing: 10px;
+        }
+
+        .carousel-caption a {
+            padding: 10px 15px;
+            font-size: 15px;
+            font-weight: 600;
+            margin-top: 10px;
+        }
+
+    }
