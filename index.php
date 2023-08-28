@@ -52,8 +52,6 @@
     <link href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.2/animate.min.css" rel="stylesheet">
 
 </head>
-
-
 <body>
 <!--===NAVBAR---------------------------------------------------------------------------------------------------------->
         <nav class="navbar navbar-expand-lg navbar-light bg-light">
@@ -122,14 +120,22 @@
             </div><button class="carousel-control-prev" data-bs-slide="prev" data-bs-target="#carouselExampleIndicators" type="button"><span aria-hidden="true" class="carousel-control-prev-icon"></span> <span class="visually-hidden">Previous</span></button> <button class="carousel-control-next" data-bs-slide="next" data-bs-target="#carouselExampleIndicators" type="button"><span aria-hidden="true" class="carousel-control-next-icon"></span> <span class="visually-hidden">Next</span></button>
         </div>
 
+<!--===ABOUT US SECTION------------------------------------------------------------------------------------------------>
+
+        <section class="abt-sec">
+            <div class="abt-sec-main">
+                <img src="" alt="">
+
+            </div>
+        </section>
 
 <!--===JAVASCRIPT------------------------------------------------------------------------------------------------------>
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.3/dist/umd/popper.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.3/dist/umd/popper.min.js"></script>
 
 <!----===SEPARATE------------------------------------------------------------------------------------------------------>
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/js/bootstrap.min.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/js/bootstrap.min.js"></script>
 
 </body>
 </html>
