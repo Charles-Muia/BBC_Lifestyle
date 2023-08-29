@@ -1,22 +1,25 @@
-/*    * {*/
-/*        font-family: 'Raleway', sans-serif;*/
-/*        margin: 0;*/
-/*        padding: 0;*/
-/*        box-sizing: border-box;*/
-/*    }*/
+    * {
+        font-family: 'Dosis', sans-serif;
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
 
-/*    :Root {*/
-/*        --Prudu-font:'Phudu', cursive;*/
-/*        --DM-Sans:'DM Sans', sans-serif;*/
-/*        --Jost-font:'Jost', sans-serif;*/
-/*        --Raleway-font: 'Raleway', sans-serif;*/
-/*        --Oxanium-font: 'Oxanium', cursive;*/
-/*        --Comfortaa-font: 'Comfortaa', cursive;*/
-/*        --white-color: #ffffff;*/
-/*        --dark-shade: rgba(0, 0, 0, 0.5);*/
-/*        --red-color: #ff0000;*/
-/*        --black-color:#000000;*/
-/*    }*/
+    :Root {
+        --Prudu-font:'Phudu', cursive;
+        --DM-Sans:'DM Sans', sans-serif;
+        --Jost-font:'Jost', sans-serif;
+        --Raleway-font: 'Raleway', sans-serif;
+        --Oxanium-font: 'Oxanium', cursive;
+        --Comfortaa-font: 'Comfortaa', cursive;
+        --Dosis-font: 'Dosis', sans-serif;
+        --Montserrat-font: 'Montserrat', sans-serif;
+        font-family: 'Montserrat', sans-serif;
+        --white-color: #ffffff;
+        --dark-shade: rgba(0, 0, 0, 0.5);
+        --red-color: #ff0000;
+        --black-color:#000000;
+    }
 
 
 /*!*--===NAVBAR CSS-----------------------------------------------------------------------------------------------------*!*/
@@ -190,6 +193,71 @@
 
 /*===NAVBAR CSS-------------------------------------------------------------------------------------------------------*/
 
-    #BBC_Logo {
-        width: 100px;
+    .navbar a {
+        font-family: var(--Raleway-font);
+        font-size: 15px;
+        text-transform: uppercase;
+        padding: 10px 20px;
+        font-weight: 600;
+        justify-content: space-between;
+        margin-bottom: 20px;
     }
+
+    .nav-link active {
+        color: var(--red-color);
+    }
+
+    .navbar a:hover {
+        color: var(--red-color);
+        background: transparent;
+    }
+
+    .navbar-toggler {
+        padding: 1px 5px;
+        font-size: 20px;
+        line-height: 0.3;
+        background: var(--white-color);
+    }
+
+    .navbar .navbar-brand img {
+        width: 120px;
+    }
+
+    .carousel-item {
+        min-height: 350px;
+    }
+
+    .carousel-caption {
+       margin-bottom: 5px;
+        z-index: 2;
+    }
+
+    .carousel-caption p {
+        color: var(--dark-shade);
+        /*font-family: var(--Oxanium-font);*/
+        font-weight: 600;
+        text-align: center;
+        font-size: 17px;
+        line-height: 1.1;
+        font-family: 'Bricolage Grotesque', sans-serif;
+    }
+
+    .carousel-caption h5 {
+        font-size: 35px;
+        color: var(--black-color);
+        text-transform: uppercase;
+        font-weight: 600;
+        letter-spacing: 2px;
+        line-height: 45px;
+        text-align: center;
+        font-family: var(--Montserrat-font);
+    }
+
+    /*.carousel-caption .master-chef {*/
+    /*    color: var(--white-color);*/
+    /*}*/
+
+    .w-100 {
+        height: 95vh;
+        object-fit: cover;
+        }
