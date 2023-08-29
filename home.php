@@ -146,7 +146,7 @@
             </div>
         </div>
         <div class="carousel-item" data-bs-interval="2000">
-            <img src="Pics/CDWM_ZA2.jpg" class="d-block w-100" alt="...">
+            <img src="Pics/FD.jpg" class="d-block w-100" alt="...">
             <div class="carousel-caption d-none d-md-block">
                 <p>2 / 3</p>
                 <h5>Second slide label</h5>
