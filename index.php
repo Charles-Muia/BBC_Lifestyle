@@ -11,11 +11,11 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>BBC Lifestyle | Home</title>
 
-<!--===FAVICON--------------------------------------------------------------------------------------------------------->
-    <link rel="icon" href="Pics/BBC_Lifestyle_Logo.jpg">
-
 <!--===CSS------------------------------------------------------------------------------------------------------------->
     <link rel="stylesheet" href="style.css">
+
+<!--===FAVICON--------------------------------------------------------------------------------------------------------->
+    <link rel="icon" href="Pics/BBC_Lifestyle_Logo.jpg">
 
 <!--===GOOGLE FONTS---------------------------------------------------------------------------------------------------->
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -122,15 +122,26 @@
 
 <!--===ABOUT US SECTION------------------------------------------------------------------------------------------------>
 
-        <section class="abt-sec">
+        <section class="abt-sec" id="about" style="padding: 10rem 0px">
             <div class="abt-sec-main">
-                <img src="" alt="">
+                <img src="Pics/BBC_Living_2.png" alt="">
+                    <div class="abt-sec-text">
+                            <h4>about us</h4>
+                            <h1>fresh & exciting programmes that set trends.</h1>
+                                <p>BBC Lifestyle’s unique mix of entertaining and inspiring series across food, home and design,
+                                    and dating, encourages viewers to dream big and build their best life.
+                                    BBC Lifestyle, channel features real human stories to help guide you in transforming your world;
+                                    from home to cooking and living well.</p>
 
+                            <div class="abt-sec-btn">
+                                <button type="button">learn more</button>
+
+                            </div>
+                    </div>
             </div>
         </section>
 
 <!--===JAVASCRIPT------------------------------------------------------------------------------------------------------>
-
         <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
         <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.3/dist/umd/popper.min.js"></script>
 

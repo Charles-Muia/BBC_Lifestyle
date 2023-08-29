@@ -137,7 +137,27 @@
         height: 85vh;
     }
 
-/*--===MEDIA QUERY CSS------------------------------------------------------------------------------------------------*/
+
+/*--===ABOUT SECTION CSS----------------------------------------------------------------------------------------------*/
+    .abt-sec {
+        padding: 10rem 0;
+        width: 100%;
+        background: #f4f4f4;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .abt-sec .abt-sec-text h4 {
+        text-transform: uppercase;
+    }
+
+    .abt-sec-text h1 {
+        text-transform: capitalize;
+    }
+
+
+    /*--===MEDIA QUERY CSS------------------------------------------------------------------------------------------------*/
 
     @media only screen and (max-width: 767px) {
 
@@ -165,5 +185,4 @@
             font-weight: 600;
             margin-top: 10px;
         }
-
     }

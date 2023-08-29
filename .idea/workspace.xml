@@ -2,8 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d47d33b1-cd98-4841-99e6-dd1926e3c5ed" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Pics/4608_TT172532607.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pics/BBC_L.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pics/BBC_Lifestyle.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pics/BBC_Living.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pics/BBC_Living_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pics/BBC_Living_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pics/BBC_Living_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pics/Come-Dine-with-me-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pics/Jozi.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pics/cap-2-1024x701.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +66,8 @@
       <workItem from="1692795512457" duration="918000" />
       <workItem from="1692861109852" duration="19799000" />
       <workItem from="1692951926761" duration="8041000" />
-      <workItem from="1693209901498" duration="1449000" />
+      <workItem from="1693209901498" duration="4735000" />
+      <workItem from="1693291954630" duration="898000" />
     </task>
     <servers />
   </component>
