@@ -79,9 +79,10 @@
                             <a class="nav-link" href="#">faqs</a>
                         </li>
 
-                        <li class="nav-item">
+                        <li class="nav-item" >
                             <a class="nav-link btn text-white bg-dark px-3 rounded-0" href="#">contact us</a>
                         </li>
+
                 </div>
             </div>
         </nav>
