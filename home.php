@@ -202,7 +202,7 @@
                 <div class="row row-cols-1 row-cols-md-2 row-cols-md-3 g-4 mt-2">
                     <div class="col">
                         <div class="card border-0 rounded-0">
-                            <img src="Pics/Listing_J.jpg" class="card-img-top rounded-0" alt="">
+                            <img src="Pics/ComeDineWithMe_Edited_2.jpg" class="card-img-top rounded-0" alt="">
                                 <div class="card-body">
                                     <p class="card-text text-muted">listing jozi <span>season 2</span> is back exclusive to <br> BBC Lifestyle</p>
 
@@ -222,7 +222,7 @@
 
                     <div class="col">
                         <div class="card border-0 rounded-0">
-                            <img src="Pics/ComeDineWithMe_Edited_2.jpg" class="card-img-top rounded-0" alt="">
+                            <img src="Pics/Listing_J.jpg" class="card-img-top rounded-0" alt="">
                             <div class="card-body">
                                 <p class="card-text text-muted">listing jozi <span>season 2</span> is back exclusive to <br> BBC Lifestyle</p>
 
@@ -242,7 +242,7 @@
 
                     <div class="col">
                         <div class="card border-0 rounded-0">
-                            <img src="Pics/Listing_J.jpg" class="card-img-top rounded-0" alt="">
+                            <img src="Pics/Bake_Off.jpg" class="card-img-top rounded-0" alt="">
                             <div class="card-body">
                                 <p class="card-text text-muted">listing jozi <span>season 2</span> is back exclusive to <br> BBC Lifestyle</p>
 
