@@ -171,26 +171,99 @@
                         <span class="visually-hidden">Next</span>
                 </button>
 
-<!--===CARD SECTION---------------------------------------------------------------------------------------------------->
-
-            <div class="col-md-4 z-1 position-absolute card-bottom card mb-3 card-color rounded-0 bg-dark">
-                <div class="row align-items-center">
-<!--                    <div class="col-md-4">-->
-<!--                        <img src="..." class="img-fluid rounded-start" alt="...">-->
-<!--                    </div>-->
-                    <div class="col-md-9">
-                        <div class="card-body">
-                            <h5 class="card-title text-light">Card title</h5>
-                            <p class="card-text text-light">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-                            <p class="card-text"><small class="text-white">Last updated 3 mins ago</small></p>
+                    <div class="col-md-4 z-1 position-absolute card-bottom card mb-3 card-color rounded-0 bg-dark">
+                        <div class="row align-items-center">
+        <!--                    <div class="col-md-4">-->
+        <!--                        <img src="..." class="img-fluid rounded-start" alt="...">-->
+        <!--                    </div>-->
+                            <div class="col-md-9">
+                                <div class="card-body">
+                                    <h5 class="card-title text-light">Card title</h5>
+                                    <p class="card-text text-light">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+                                    <p class="card-text"><small class="text-white">Last updated 3 mins ago</small></p>
+                                </div>
+                            </div>
+                                    <div class="col-md-3">
+                                        <img src="Pics/cap-2-1024x701.png" class="img-fluid rounded-start" alt="...">
+                                    </div>
                         </div>
                     </div>
-                            <div class="col-md-3">
-                                <img src="Pics/cap-2-1024x701.png" class="img-fluid rounded-start" alt="...">
-                            </div>
-                </div>
-            </div>
         </div>
+
+<!--===OUR SERVICES SECTION-------------------------------------------------------------------------------------------->
+
+        <section id="service-sec" class="container" style="margin-top: 150px; margin-bottom: 150px;">
+            <p class="pt-5">new season</p>
+                <div class="d-flex">
+                    <h2>listing jozi</h2>
+                        <h6 class="ms-auto">more episodes<span class="arrow-icon">&rarr;</span></h6>
+                </div>
+
+                <div class="row row-cols-1 row-cols-md-2 row-cols-md-3 g-4 mt-2">
+                    <div class="col">
+                        <div class="card border-0 rounded-0">
+                            <img src="Pics/Listing_J.jpg" class="card-img-top rounded-0" alt="">
+                                <div class="card-body">
+                                    <p class="card-text text-muted">listing jozi <span>season 2</span> is back exclusive to <br> BBC Lifestyle</p>
+
+                                        <div class="d-flex justify-content-center mt-3">
+                                                <p class="mx-4 text-muted card-text"><i class="fa fa-hourglass-start"></i>starts</p>
+                                                <p class="mx-4 text-muted card-text"><i class="fa fa-clock"></i>6 PM</p>
+                                                <p class="mx-4 text-muted card-text"><i class="fa fa-calendar"></i>weekdays</p>
+                                        </div>
+
+                                            <div class="d-flex my-2">
+                                                <button class="btn btn-lg text-white bg-dark px-4 rounded-0">watch </button>
+                                                    <h5 class="my-auto ms-auto"><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star-half-stroke"></i></h5>
+                                            </div>
+                                </div>
+                        </div>
+                    </div>
+
+                    <div class="col">
+                        <div class="card border-0 rounded-0">
+                            <img src="Pics/Listing_J.jpg" class="card-img-top rounded-0" alt="">
+                            <div class="card-body">
+                                <p class="card-text text-muted">listing jozi <span>season 2</span> is back exclusive to <br> BBC Lifestyle</p>
+
+                                <div class="d-flex justify-content-center mt-3">
+                                    <p class="mx-4 text-muted card-text"><i class="fa fa-hourglass-start"></i>starts</p>
+                                    <p class="mx-4 text-muted card-text"><i class="fa fa-clock"></i>6 PM</p>
+                                    <p class="mx-4 text-muted card-text"><i class="fa fa-calendar"></i>weekdays</p>
+                                </div>
+
+                                <div class="d-flex my-2">
+                                    <button class="btn btn-lg text-white bg-dark px-4 rounded-0">watch </button>
+                                    <h5 class="my-auto ms-auto"><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star-half-stroke"></i></h5>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col">
+                        <div class="card border-0 rounded-0">
+                            <img src="Pics/Listing_J.jpg" class="card-img-top rounded-0" alt="">
+                            <div class="card-body">
+                                <p class="card-text text-muted">listing jozi <span>season 2</span> is back exclusive to <br> BBC Lifestyle</p>
+
+                                <div class="d-flex justify-content-center mt-3">
+                                    <p class="mx-4 text-muted card-text"><i class="fa fa-hourglass-start"></i>starts</p>
+                                    <p class="mx-4 text-muted card-text"><i class="fa fa-clock"></i>6 PM</p>
+                                    <p class="mx-4 text-muted card-text"><i class="fa fa-calendar"></i>weekdays</p>
+                                </div>
+
+                                <div class="d-flex my-2">
+                                    <button class="btn btn-lg text-white bg-dark px-4 rounded-0">watch </button>
+                                    <h5 class="my-auto ms-auto"><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star-half-stroke"></i></h5>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+
+        </section>
+
 
 <!--===JS-------------------------------------------------------------------------------------------------------------->
 <!--===BOOTSTRAP------------------------------------------------------------------------------------------------------->

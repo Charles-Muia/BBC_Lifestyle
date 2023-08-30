@@ -282,8 +282,8 @@
 /*--===CARD SECTION CSS-----------------------------------------------------------------------------------------------*/
 
     .card-bottom {
-        right: 0;
-        margin-top: -180px;
+        right: 11px;
+        margin-top: -175px;
     }
 
     .card-text {
@@ -305,3 +305,10 @@
         font-size: 15px;
         font-weight: 600;
     }
+
+/*--===OUR SERVICES SECTION CSS---------------------------------------------------------------------------------------*/
+
+    #service-sec {
+        background: var(--white-color);
+    }
+
