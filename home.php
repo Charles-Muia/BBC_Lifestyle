@@ -242,7 +242,7 @@
 
                     <div class="col">
                         <div class="card border-0 rounded-0">
-                            <img src="Pics/Bake_Off.jpg" class="card-img-top rounded-0" alt="">
+                            <img src="Pics/Bake_Off_2.jpg" class="card-img-top rounded-0" alt="">
                             <div class="card-body">
                                 <p class="card-text text-muted">listing jozi <span>season 2</span> is back exclusive to <br> BBC Lifestyle</p>
 
