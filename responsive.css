@@ -1,0 +1,23 @@
+/*--===MEDIA QUERY CSS------------------------------------------------------------------------------------------------*/
+    @media only screen and (max-width: 767px) {
+
+        .navbar-nav {
+            text-align: center;
+        }
+
+        .carousel-caption h5 {
+            font-size: 30px;
+            letter-spacing: 0;
+            line-height: normal;
+        }
+
+        .carousel-caption p {
+            padding: 10px 15px;
+            font-size: 15px;
+        }
+
+        .carousel .card-bottom {
+            display: none;
+        }
+
+    }
