@@ -54,6 +54,22 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Epilogue&display=swap" rel="stylesheet">
 
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Economica&family=Epilogue&display=swap" rel="stylesheet">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins&display=swap" rel="stylesheet">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Bruno+Ace+SC&display=swap" rel="stylesheet">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Rubik:wght@500&display=swap" rel="stylesheet">
+
 </head>
 <body>
 
@@ -206,27 +222,29 @@
 <!--===OUR SERVICES SECTION-------------------------------------------------------------------------------------------->
 
         <section id="service-sec" class="container" style="margin-top: 150px; margin-bottom: 150px;">
-            <p style="font-family: var(--Epilogue-); font-size: 27px; text-transform: uppercase; color: var(--red-color); font-weight: 600" class="pt-5">new season</p>
+            <p style="font-family: var(--Epilogue-font); font-size: 27px; text-transform: uppercase; color: var(--red-color); font-weight: 600" class="pt-5">new season</p>
                 <div class="d-flex">
-                    <h2 style="text-transform: capitalize; font-weight: 600; font-family: var(--Epilogue-)">listing jozi</h2>
-                        <h6 style="font-family: var(--Epilogue-);text-transform: capitalize; font-weight: 600; font-size: 24px;" class="ms-auto">more episodes<span style="font-size: 30px; font-weight: 600; color: var(--red-color) " class="arrow-icon"> &rarr;</span></h6>
+                    <h2 style="text-transform: capitalize; font-weight: 600; font-family: var(--Epilogue-font)">listing jozi</h2>
+                        <h6 style="font-family: var(--Epilogue-font); text-transform: capitalize; font-weight: 600; font-size: 18px;" class="ms-auto">more episodes<span style="font-size: 30px; font-weight: 600; color: var(--red-color) " class="arrow-icon"> &rarr;</span></h6>
                 </div>
 
                 <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4 mt-2">
                     <div class="col">
                         <div class="card border-0 rounded-0">
                             <img src="Pics/ComeDineWithMe_Edited_2.jpg" class="card-img-top rounded-0" alt="">
+
                                 <div class="card-body">
-                                    <p class="card-text text-muted">listing jozi <span>season 2</span> is back exclusive to <br> BBC Lifestyle</p>
+                                    <p class="card-text text text-black" style="color var(--black-color); text-transform: capitalize; font-size: 18px; font-weight: 600; font-family: var(--Epilogue-font)">new episodes listing jozi <span style="color: var(--red-color); font-weight: 600; font-family: var(--Raleway-font); text-transform: uppercase; font-size: 16px">season 2</span>
+                                        exclusive to BBC Lifestyle.</p>
 
                                         <div class="d-flex justify-content-center mt-3">
-                                                <p class="mx-4 text-muted card-text"><i class="fa fa-hourglass-start"></i>starts</p>
-                                                <p class="mx-4 text-muted card-text"><i class="fa fa-clock"></i>6 PM</p>
-                                                <p class="mx-4 text-muted card-text"><i class="fa fa-calendar"></i>weekdays</p>
+                                                <p class="mx-4 text-muted card-text" style="text-transform: capitalize"><i class="fa fa-hourglass-start"></i> starts</p>
+                                                <p class="mx-4 text-muted card-text" style="text-transform: capitalize"><i class="fa fa-clock"></i> 6 PM</p>
+                                                <p class="mx-4 text-muted card-text" style="text-transform: capitalize"><i class="fa fa-calendar"></i> weekdays</p>
                                         </div>
 
                                             <div class="d-flex my-2">
-                                                <button class="btn btn-lg text-white bg-dark px-4 rounded-0">watch </button>
+                                                <button class="btn btn-lg text-white bg-dark px-4 rounded-0" style="font-family: var(--Bruno-font)">watch </button>
                                                     <h5 class="my-auto ms-auto"><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star-half-stroke"></i></h5>
                                             </div>
                                 </div>
@@ -236,17 +254,19 @@
                     <div class="col">
                         <div class="card border-0 rounded-0">
                             <img src="Pics/Listing_J.jpg" class="card-img-top rounded-0" alt="">
+
                             <div class="card-body">
-                                <p class="card-text text-muted">listing jozi <span>season 2</span> is back exclusive to <br> BBC Lifestyle</p>
+                                <p class="card-text text text-black" style="color var(--black-color); text-transform: capitalize; font-size: 18px; font-weight: 600; font-family: var(--Epilogue-font)">new episodes listing jozi <span style="color: var(--red-color); font-weight: 600; font-family: var(--Raleway-font); text-transform: uppercase; font-size: 16px">season 2</span>
+                                    exclusive to BBC Lifestyle.</p>
 
                                 <div class="d-flex justify-content-center mt-3">
-                                    <p class="mx-4 text-muted card-text"><i class="fa fa-hourglass-start"></i>starts</p>
-                                    <p class="mx-4 text-muted card-text"><i class="fa fa-clock"></i>6 PM</p>
-                                    <p class="mx-4 text-muted card-text"><i class="fa fa-calendar"></i>weekdays</p>
+                                    <p class="mx-4 text-muted card-text" style="text-transform: capitalize"><i class="fa fa-hourglass-start"></i> starts</p>
+                                    <p class="mx-4 text-muted card-text" style="text-transform: capitalize"><i class="fa fa-clock"></i> 6 PM</p>
+                                    <p class="mx-4 text-muted card-text" style="text-transform: capitalize"><i class="fa fa-calendar"></i> weekdays</p>
                                 </div>
 
                                 <div class="d-flex my-2">
-                                    <button class="btn btn-lg text-white bg-dark px-4 rounded-0">watch </button>
+                                    <button class="btn btn-lg text-white bg-dark px-4 rounded-0" style="font-family: var(--Bruno-font)">watch </button>
                                     <h5 class="my-auto ms-auto"><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star-half-stroke"></i></h5>
                                 </div>
                             </div>
@@ -256,24 +276,30 @@
                     <div class="col">
                         <div class="card border-0 rounded-0">
                             <img src="Pics/Bake_Off_Final.jpg" class="card-img-top rounded-0" alt="">
+
                             <div class="card-body">
-                                <p class="card-text text-muted">listing jozi <span>season 2</span> is back exclusive to <br> BBC Lifestyle</p>
+                                <p class="card-text text text-black" style="color var(--black-color); text-transform: capitalize; font-size: 18px; font-weight: 600; font-family: var(--Epilogue-font)">new episodes listing jozi <span style="color: var(--red-color); font-weight: 600; font-family: var(--Raleway-font); text-transform: uppercase; font-size: 16px">season 2</span>
+                                    exclusive to BBC Lifestyle.</p>
 
                                 <div class="d-flex justify-content-center mt-3">
-                                    <p class="mx-4 text-muted card-text"><i class="fa fa-hourglass-start"></i>starts</p>
-                                    <p class="mx-4 text-muted card-text"><i class="fa fa-clock"></i>6 PM</p>
-                                    <p class="mx-4 text-muted card-text"><i class="fa fa-calendar"></i>weekdays</p>
+                                    <p class="mx-4 text-muted card-text" style="text-transform: capitalize"><i class="fa fa-hourglass-start"></i> starts</p>
+                                    <p class="mx-4 text-muted card-text" style="text-transform: capitalize"><i class="fa fa-clock"></i> 6 PM</p>
+                                    <p class="mx-4 text-muted card-text" style="text-transform: capitalize"><i class="fa fa-calendar"></i> weekdays</p>
                                 </div>
 
                                 <div class="d-flex my-2">
-                                    <button class="btn btn-lg text-white bg-dark px-4 rounded-0">watch </button>
+                                    <button class="btn btn-lg text-white bg-dark px-4 rounded-0" style="font-family: var(--Bruno-font)">watch </button>
                                     <h5 class="my-auto ms-auto"><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star-half-stroke"></i></h5>
                                 </div>
                             </div>
                         </div>
                     </div>
-
                 </div>
+        </section>
+
+<!--===OUR WORK SECTION------------------------------------------------------------------------------------------------>
+
+        <section class="bg-dark" style="margin-top: -15%;">
 
         </section>
 

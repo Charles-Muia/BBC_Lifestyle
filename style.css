@@ -16,7 +16,10 @@
         --Montserrat-font: 'Montserrat', sans-serif;
         --Urbanist-font:'Urbanist', sans-serif;
         --Poppins-font: 'Poppins', sans-serif;
-        --Epilogue-: 'Epilogue', sans-serif;
+        --Epilogue-font: 'Epilogue', sans-serif;
+        --Economica-font: 'Economica', sans-serif;
+        --Bruno-font: 'Bruno Ace SC', cursive;
+        --Rubik-font: 'Rubik', sans-serif;
         --white-color: #ffffff;
         --dark-shade: rgba(0, 0, 0, 0.5);
         --red-color: #ff0000;
@@ -314,6 +317,18 @@
         background: var(--white-color);
     }
 
+    #service-sec img {
+        /*box-shadow: 10px 10px 5px rgba(0,0,0,0.3);*/
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+        transition: all .60s ease;
+        cursor: pointer;
+    }
+
+    #service-sec img:hover {
+        transform: translateY(-2rem);
+        box-shadow: rgba(0, 0, 0, 0.56) 0px 22px 70px 4px;
+    }
+
     .h_2 {
         text-transform: uppercase;
     }
@@ -326,4 +341,7 @@
     /*    font-size: 30px;*/
     /*    font-weight: 800;*/
     /*}*/
+
+/*--===OUR WORK SECTION CSS-----------------------------------------------------------------------------------------------*/
+
 
