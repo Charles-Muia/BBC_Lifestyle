@@ -177,7 +177,7 @@
                         </div>
                     </div>
                 <div class="carousel-item" data-bs-interval="2000">
-                        <img src="Pics/FD.jpg" class="d-block w-100" alt="...">
+                        <img src="Pics/FD_3.jpg" class="d-block w-100" alt="...">
                         <div class="carousel-caption d-none d-md-block">
                             <p>2 / 3</p>
                             <h5>Second slide label</h5>
@@ -244,7 +244,7 @@
                                         </div>
 
                                             <div class="d-flex my-2">
-                                                <button class="btn btn-lg text-white bg-dark px-4 rounded-0" style="font-family: var(--Bruno-font)">watch </button>
+                                                <button class="btn btn-lg text-white bg-dark px-4 rounded-0" style="font-family: var(--Bruno-font); box-shadow: rgba(0, 0, 0, 0.56) 0px 22px 70px 4px;">watch </button>
                                                     <h5 class="my-auto ms-auto"><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star-half-stroke"></i></h5>
                                             </div>
                                 </div>
@@ -266,7 +266,7 @@
                                 </div>
 
                                 <div class="d-flex my-2">
-                                    <button class="btn btn-lg text-white bg-dark px-4 rounded-0" style="font-family: var(--Bruno-font)">watch </button>
+                                    <button class="btn btn-lg text-white bg-dark px-4 rounded-0" style="font-family: var(--Bruno-font); box-shadow: rgba(0, 0, 0, 0.56) 0px 22px 70px 4px;">watch </button>
                                     <h5 class="my-auto ms-auto"><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star-half-stroke"></i></h5>
                                 </div>
                             </div>
@@ -288,7 +288,7 @@
                                 </div>
 
                                 <div class="d-flex my-2">
-                                    <button class="btn btn-lg text-white bg-dark px-4 rounded-0" style="font-family: var(--Bruno-font)">watch </button>
+                                    <button class="btn btn-lg text-white bg-dark px-4 rounded-0" style="font-family: var(--Bruno-font); box-shadow: rgba(0, 0, 0, 0.56) 0px 22px 70px 4px; ">watch </button>
                                     <h5 class="my-auto ms-auto"><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star-half-stroke"></i></h5>
                                 </div>
                             </div>
@@ -300,7 +300,43 @@
 <!--===OUR WORK SECTION------------------------------------------------------------------------------------------------>
 
         <section class="bg-dark" style="margin-top: -15%;">
+                <div class="container pt-5">
+                    <div class="row" style="margin-top: 165px;">
+                        <div class="col-lg-4">
+                            <h2 style="color: var(--white-shade);text-transform: capitalize; font-weight: 600; font-family: var(--Epilogue-font)">BBC Lifestyle</h2>
+                            <p style="color: var(--white-shade)">Lorem ipsum dolor sit</p>
+                        </div>
+                                <div class="col-lg-8 mb-5">
+                                    <h6 class="lh-lg" style="color: var(--white-shade);"> &ldquo;
+                                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam asperiores autem est
+                                        expedita fugit illum ipsum itaque laboriosam
+                                        laudantium libero magni numquam provident quam,
+                                        rem repellendus reprehenderit repudiandae tempora veritatis! &rdquo; </h6>
+                                </div>
+                    </div>
 
+                        <hr class="text-light">
+                                <div class="container mt-5 pb-5">
+                                        <div class="row text-center">
+                                            <div class="col-md-3 col-sm-6">
+                                                <img src="Pics/British.png" alt="" style="width: 55%">
+                                            </div>
+
+                                            <div class="col-md-3 col-sm-6">
+                                                <img src="Pics/4608_TT172532607.png" alt="" style="width: 55%; margin-top: 20px; margin-bottom: 15px">
+                                            </div>
+
+                                            <div class="col-md-3 col-sm-6">
+                                                <img src="Pics/New_Look.jpg" alt="" style="width: 55%; margin-top: 5px">
+                                            </div>
+
+                                            <div class="col-md-3 col-sm-6">
+                                                <img src="Pics/New_Look_2.png" alt="" style="width: 55%; display: inline-block; margin-top: -5px">
+                                            </div>
+
+                                        </div>
+                                </div>
+                </div>
         </section>
 
 
