@@ -301,10 +301,10 @@
 
         <section class="bg-dark" style="margin-top: -15%;">
                 <div class="container pt-5">
-                    <div class="row" style="margin-top: 165px;">
+                    <div class="row" style="margin-top: 165px; margin-bottom: 100px">
                         <div class="col-lg-4">
                             <h2 style="color: var(--white-shade);text-transform: capitalize; font-weight: 600; font-family: var(--Epilogue-font)">
-                                <img style="color: var(--white-shade)" src="Pics/Logo_1.png" alt="" width="150px"></h2>
+                                <img style="color: var(--white-shade)" src="Pics/Logo_1.png" alt="" width="160px"></h2>
                             <p style="color: var(--white-shade)">Lorem ipsum dolor sit</p>
                         </div>
                                 <div class="col-lg-8 mb-5">
