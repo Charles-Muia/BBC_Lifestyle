@@ -41,6 +41,19 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@10..48,800&family=Dosis&family=Montserrat&family=Orbitron:wght@800;900&display=swap" rel="stylesheet">
 
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Urbanist&display=swap" rel="stylesheet">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins&family=Righteous&family=Ubuntu:wght@400;500;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100&display=swap" rel="stylesheet">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Epilogue&display=swap" rel="stylesheet">
+
 </head>
 <body>
 
@@ -193,13 +206,13 @@
 <!--===OUR SERVICES SECTION-------------------------------------------------------------------------------------------->
 
         <section id="service-sec" class="container" style="margin-top: 150px; margin-bottom: 150px;">
-            <p class="pt-5">new season</p>
+            <p style="font-family: var(--Epilogue-); font-size: 27px; text-transform: uppercase; color: var(--red-color); font-weight: 600" class="pt-5">new season</p>
                 <div class="d-flex">
-                    <h2>listing jozi</h2>
-                        <h6 class="ms-auto">more episodes<span class="arrow-icon">&rarr;</span></h6>
+                    <h2 style="text-transform: capitalize; font-weight: 600; font-family: var(--Epilogue-)">listing jozi</h2>
+                        <h6 style="font-family: var(--Epilogue-);text-transform: capitalize; font-weight: 600; font-size: 24px;" class="ms-auto">more episodes<span style="font-size: 30px; font-weight: 600; color: var(--red-color) " class="arrow-icon"> &rarr;</span></h6>
                 </div>
 
-                <div class="row row-cols-1 row-cols-md-2 row-cols-md-3 g-4 mt-2">
+                <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4 mt-2">
                     <div class="col">
                         <div class="card border-0 rounded-0">
                             <img src="Pics/ComeDineWithMe_Edited_2.jpg" class="card-img-top rounded-0" alt="">
@@ -242,7 +255,7 @@
 
                     <div class="col">
                         <div class="card border-0 rounded-0">
-                            <img src="Pics/Bake_Off_2.jpg" class="card-img-top rounded-0" alt="">
+                            <img src="Pics/Bake_Off_Final.jpg" class="card-img-top rounded-0" alt="">
                             <div class="card-body">
                                 <p class="card-text text-muted">listing jozi <span>season 2</span> is back exclusive to <br> BBC Lifestyle</p>
 
