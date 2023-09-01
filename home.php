@@ -238,7 +238,7 @@
                                     <p class="card-text text text-black" style="color var(--black-color); text-transform: capitalize; font-size: 18px; font-weight: 600; font-family: var(--Epilogue-font)">new episodes listing jozi <span style="color: var(--red-color); font-weight: 600; font-family: var(--Raleway-font); text-transform: uppercase; font-size: 16px">season 2</span>
                                         exclusive to BBC Lifestyle.</p>
 
-                                        <div class="d-flex justify-content-center mt-3">
+                                        <div class="d-flex justify-content-center mt-3 pt-3">
                                                 <p class="mx-4 text-muted card-text" style="text-transform: capitalize"><i class="fa fa-hourglass-start"></i> starts</p>
                                                 <p class="mx-4 text-muted card-text" style="text-transform: capitalize"><i class="fa fa-clock"></i> 6 PM</p>
                                                 <p class="mx-4 text-muted card-text" style="text-transform: capitalize"><i class="fa fa-calendar"></i> weekdays</p>
@@ -261,7 +261,7 @@
                                 <p class="card-text text text-black" style="color var(--black-color); text-transform: capitalize; font-size: 18px; font-weight: 600; font-family: var(--Epilogue-font)">new episodes listing jozi <span style="color: var(--red-color); font-weight: 600; font-family: var(--Raleway-font); text-transform: uppercase; font-size: 16px">season 2</span>
                                     exclusive to BBC Lifestyle.</p>
 
-                                <div class="d-flex justify-content-center mt-3">
+                                <div class="d-flex justify-content-center mt-3 pt-3">
                                     <p class="mx-4 text-muted card-text" style="text-transform: capitalize"><i class="fa fa-hourglass-start"></i> starts</p>
                                     <p class="mx-4 text-muted card-text" style="text-transform: capitalize"><i class="fa fa-clock"></i> 6 PM</p>
                                     <p class="mx-4 text-muted card-text" style="text-transform: capitalize"><i class="fa fa-calendar"></i> weekdays</p>
@@ -284,14 +284,14 @@
                                 <p class="card-text text text-black" style="color var(--black-color); text-transform: capitalize; font-size: 18px; font-weight: 600; font-family: var(--Epilogue-font)">new episodes listing jozi <span style="color: var(--red-color); font-weight: 600; font-family: var(--Raleway-font); text-transform: uppercase; font-size: 16px">season 2</span>
                                     exclusive to BBC Lifestyle.</p>
 
-                                <div class="d-flex justify-content-center mt-3">
+                                <div class="d-flex justify-content-center mt-3 pt-3">
                                     <p class="mx-4 text-muted card-text" style="text-transform: capitalize"><i class="fa fa-hourglass-start"></i> starts</p>
                                     <p class="mx-4 text-muted card-text" style="text-transform: capitalize"><i class="fa fa-clock"></i> 6 PM</p>
                                     <p class="mx-4 text-muted card-text" style="text-transform: capitalize"><i class="fa fa-calendar"></i> weekdays</p>
                                 </div>
 
                                 <div class="d-flex my-2">
-                                    <button class="btn btn-lg text-white bg-dark px-4 rounded-0" style="font-family: var(--Bruno-font); box-shadow: rgba(0, 0, 0, 0.56) 0px 22px 70px 4px; ">watch </button>
+                                    <button class="btn btn-lg text-white bg-dark px-4 rounded-0" style="font-family: var(--Bruno-font); box-shadow: rgba(0, 0, 0, 0.56) 0px 22px 70px 4px;">watch </button>
                                     <h5 class="my-auto ms-auto"><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star-half-stroke"></i></h5>
                                 </div>
                             </div>
@@ -376,7 +376,7 @@
                                                 Aperiam assumenda, earum, eveniet inventore nisi nostrum officiis omnis reiciendis rerum sequi tempora vel voluptatibus? Asperiores est iste quo repellendus reprehenderit ut?
                                                 Amet aspernatur corporis dolorum ipsum laboriosam laborum placeat possimus quas rem?</p>
 
-                                                <a href="#" class="btn text-white bg-dark px-3 rounded-0" style="font-family: var(--Raleway-font); font-size: 15px; text-transform: uppercase; font-weight: 600;">learn more</a>
+                                                <a href="#" class="btn text-white bg-dark px-3 rounded-0" style="font-family: var(--Raleway-font); font-size: 15px; text-transform: uppercase; font-weight: 600; ">learn more</a>
 
                                         </div>
                                   </div>
@@ -396,37 +396,37 @@
                 <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4 mt-2">
 
                     <div class="col">
-                        <div class="card border-0 rounded-0">
-                            <img src="Pics/ComeDineWithMe_Edited_2.jpg" class="card-img-top rounded-0" alt="">
+                        <div class="card border-0 rounded-0 pt-5">
+                            <img src="Pics/Blog_1.jpg" class="card-img-top rounded-0" alt="">
                             <div class="card-body">
                                 <p class="card-text text text-black pt-5" style="color var(--black-color); text-transform: capitalize; font-size: 18px; font-weight: 600; font-family: var(--Epilogue-font)"> 01 Sep 2023 </p>
-                                <p class="card-text text text-black" style="color var(--black-color); text-transform: capitalize; font-size: 18px; font-weight: 600; font-family: var(--Epilogue-font)">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores, nisi? <span style="color: var(--red-color); font-weight: 600; font-family: var(--Raleway-font); text-transform: uppercase; font-size: 16px">season 2</span>
+                                <p class="card-text text text-black pt-3" style="color var(--black-color); text-transform: capitalize; font-size: 18px; font-weight: 600; font-family: var(--Epilogue-font)">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores, nisi? <span style="color: var(--red-color); font-weight: 600; font-family: var(--Raleway-font); text-transform: uppercase; font-size: 16px">season 2</span>
                                     exclusive to BBC Lifestyle.</p>
-                                <button class="btn text-primary px-4 btn-lg rounded-0" style="font-family: var(--Bruno-font); box-shadow: rgba(0, 0, 0, 0.56) 0px 22px 70px 4px; background: var(--black-color)">read more </button>
+                                <button class="btn text-primary px-4 btn-lg rounded-0" style="font-family: var(--Bruno-font); box-shadow: rgba(0, 0, 0, 0.56) 0px 22px 70px 4px; background: var(--black-color); margin-top: 20px">read more </button>
                             </div>
                         </div>
                     </div>
 
                     <div class="col">
-                        <div class="card border-0 rounded-0">
+                        <div class="card border-0 rounded-0 pt-5">
                             <img src="Pics/ComeDineWithMe_Edited_2.jpg" class="card-img-top rounded-0" alt="">
                             <div class="card-body">
                                 <p class="card-text text text-black pt-5" style="color var(--black-color); text-transform: capitalize; font-size: 18px; font-weight: 600; font-family: var(--Epilogue-font)"> 01 Sep 2023 </p>
-                                <p class="card-text text text-black" style="color var(--black-color); text-transform: capitalize; font-size: 18px; font-weight: 600; font-family: var(--Epilogue-font)">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores, nisi? <span style="color: var(--red-color); font-weight: 600; font-family: var(--Raleway-font); text-transform: uppercase; font-size: 16px">season 2</span>
+                                <p class="card-text text text-black pt-3" style="color var(--black-color); text-transform: capitalize; font-size: 18px; font-weight: 600; font-family: var(--Epilogue-font)">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores, nisi? <span style="color: var(--red-color); font-weight: 600; font-family: var(--Raleway-font); text-transform: uppercase; font-size: 16px">season 2</span>
                                     exclusive to BBC Lifestyle.</p>
-                                <button class="btn text-primary px-4 btn-lg rounded-0" style="font-family: var(--Bruno-font); box-shadow: rgba(0, 0, 0, 0.56) 0px 22px 70px 4px; background: var(--black-color)">read more </button>
+                                <button class="btn text-primary px-4 btn-lg rounded-0" style="font-family: var(--Bruno-font); box-shadow: rgba(0, 0, 0, 0.56) 0px 22px 70px 4px; background: var(--black-color); margin-top: 20px">read more </button>
                             </div>
                         </div>
                     </div>
 
                     <div class="col">
-                        <div class="card border-0 rounded-0">
+                        <div class="card border-0 rounded-0 pt-5">
                             <img src="Pics/ComeDineWithMe_Edited_2.jpg" class="card-img-top rounded-0" alt="">
                             <div class="card-body">
                                 <p class="card-text text text-black pt-5" style="color var(--black-color); text-transform: capitalize; font-size: 18px; font-weight: 600; font-family: var(--Epilogue-font)"> 01 Sep 2023 </p>
-                                <p class="card-text text text-black" style="color var(--black-color); text-transform: capitalize; font-size: 18px; font-weight: 600; font-family: var(--Epilogue-font)">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores, nisi? <span style="color: var(--red-color); font-weight: 600; font-family: var(--Raleway-font); text-transform: uppercase; font-size: 16px">season 2</span>
+                                <p class="card-text text text-black pt-3" style="color var(--black-color); text-transform: capitalize; font-size: 18px; font-weight: 600; font-family: var(--Epilogue-font)">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores, nisi? <span style="color: var(--red-color); font-weight: 600; font-family: var(--Raleway-font); text-transform: uppercase; font-size: 16px">season 2</span>
                                     exclusive to BBC Lifestyle.</p>
-                                <button class="btn text-primary px-4 btn-lg rounded-0" style="font-family: var(--Bruno-font); box-shadow: rgba(0, 0, 0, 0.56) 0px 22px 70px 4px; background: var(--black-color)">read more </button>
+                                <button class="btn text-primary px-4 btn-lg rounded-0" style="font-family: var(--Bruno-font); box-shadow: rgba(0, 0, 0, 0.56) 0px 22px 70px 4px; background: var(--black-color); margin-top: 20px">read more </button>
                             </div>
                         </div>
                     </div>
