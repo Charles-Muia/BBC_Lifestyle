@@ -343,6 +343,17 @@
     /*    font-weight: 800;*/
     /*}*/
 
-/*--===OUR WORK SECTION CSS-----------------------------------------------------------------------------------------------*/
+/*--===BLOG SECTION CSS-----------------------------------------------------------------------------------------------*/
 
+    #blog-sec img {
+        /*box-shadow: 10px 10px 5px rgba(0,0,0,0.3);*/
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+        transition: all .60s ease;
+        cursor: pointer;
+    }
+
+    #blog-sec img:hover {
+        transform: translateY(-2rem);
+        box-shadow: rgba(0, 0, 0, 0.56) 0px 22px 70px 4px;
+    }
 
