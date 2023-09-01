@@ -221,7 +221,7 @@
 
 <!--===OUR SERVICES SECTION-------------------------------------------------------------------------------------------->
 
-        <section id="service-sec" class="container" style="margin-top: 150px; margin-bottom: 150px;">
+        <section id="service-sec" class="container" style="margin-top: 130px; margin-bottom: 150px;">
             <p style="font-family: var(--Epilogue-font); font-size: 27px; text-transform: uppercase; color: var(--red-color); font-weight: 600" class="pt-5">new season</p>
                 <div class="d-flex">
                     <h2 style="text-transform: capitalize; font-weight: 600; font-family: var(--Epilogue-font)">listing jozi</h2>
@@ -339,6 +339,125 @@
                                 </div>
                 </div>
         </section>
+
+<!--===ABOUT SECTION--------------------------------------------------------------------------------------------------->
+
+            <section class="about abt-sec" style="margin-top: 150px">
+                <div class="text-center pb-5" style="font-family: var(--Epilogue-font); font-size: 27px; text-transform: uppercase; color: var(--red-color); font-weight: 600">
+                    <h2>our services</h2>
+                </div>
+
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-lg-5 col-md-12 col-12">
+                                <div class="d-flex">
+                                    <div class="about-img mx-3">
+                                        <img src="Pics/Tea.jpg" alt="" class="img-fluid h-100 mt-4">
+                                    </div>
+
+                                        <div class="about-img">
+                                            <img src="Pics/Marissa.jpg" alt="" class="img-fluid h-75">
+                                        </div>
+
+                                </div>
+                            </div>
+
+                                  <div class="col-lg-7 col-md-12 col-12 ps-lg-5 mt-md-5" style="margin-top: 40px">
+                                        <div class="about-text">
+                                            <h2>brimming with vibrant, <br> fresh and exciting programmes that set trends.</h2>
+                                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                                                Ad assumenda blanditiis dignissimos doloremque modi perferendis quae saepe tempore ullam velit.
+                                                A consequuntur deleniti dolore ducimus eos expedita impedit in ipsam iure minima, necessitatibus nemo nulla odio porro quae ratione repellendus sint tenetur vitae voluptatem!
+                                                Accusamus asperiores commodi odit quidem quos sit tempora voluptates.
+                                                Alias asperiores assumenda autem deserunt provident quidem tempore! At ex pariatur quas sequi voluptatem.
+                                                Aperiam assumenda, earum, eveniet inventore nisi nostrum officiis omnis reiciendis rerum sequi tempora vel voluptatibus? Asperiores est iste quo repellendus reprehenderit ut?
+                                                Amet aspernatur corporis dolorum ipsum laboriosam laborum placeat possimus quas rem?</p>
+
+                                                <a href="#" class="btn text-white bg-dark px-3 rounded-0">learn more</a>
+
+                                        </div>
+                                  </div>
+                        </div>
+                    </div>
+            </section>
+
+<!--===BLOG SECTION---------------------------------------------------------------------------------------------------->
+
+            <section id="service-sec" class="container" style="margin-top: 150px; margin-bottom: 150px;">
+                <p style="font-family: var(--Epilogue-font); font-size: 27px; text-transform: uppercase; color: var(--red-color); font-weight: 600" class="pt-5">new season</p>
+                <div class="d-flex">
+                    <h2 style="text-transform: capitalize; font-weight: 600; font-family: var(--Epilogue-font)">listing jozi</h2>
+                    <h6 style="font-family: var(--Epilogue-font); text-transform: capitalize; font-weight: 600; font-size: 18px;" class="ms-auto">more episodes<span style="font-size: 30px; font-weight: 600; color: var(--red-color) " class="arrow-icon"> &rarr;</span></h6>
+                </div>
+
+                <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4 mt-2">
+                    <div class="col">
+                        <div class="card border-0 rounded-0">
+                            <img src="Pics/ComeDineWithMe_Edited_2.jpg" class="card-img-top rounded-0" alt="">
+
+                            <div class="card-body">
+                                <p class="card-text text text-black" style="color var(--black-color); text-transform: capitalize; font-size: 18px; font-weight: 600; font-family: var(--Epilogue-font)">new episodes listing jozi <span style="color: var(--red-color); font-weight: 600; font-family: var(--Raleway-font); text-transform: uppercase; font-size: 16px">season 2</span>
+                                    exclusive to BBC Lifestyle.</p>
+
+                                <div class="d-flex justify-content-center mt-3">
+                                    <p class="mx-4 text-muted card-text" style="text-transform: capitalize"><i class="fa fa-hourglass-start"></i> starts</p>
+                                    <p class="mx-4 text-muted card-text" style="text-transform: capitalize"><i class="fa fa-clock"></i> 6 PM</p>
+                                    <p class="mx-4 text-muted card-text" style="text-transform: capitalize"><i class="fa fa-calendar"></i> weekdays</p>
+                                </div>
+
+                                <div class="d-flex my-2">
+                                    <button class="btn btn-lg text-white bg-dark px-4 rounded-0" style="font-family: var(--Bruno-font); box-shadow: rgba(0, 0, 0, 0.56) 0px 22px 70px 4px;">watch </button>
+                                    <h5 class="my-auto ms-auto"><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star-half-stroke"></i></h5>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col">
+                        <div class="card border-0 rounded-0">
+                            <img src="Pics/Listing_J.jpg" class="card-img-top rounded-0" alt="">
+
+                            <div class="card-body">
+                                <p class="card-text text text-black" style="color var(--black-color); text-transform: capitalize; font-size: 18px; font-weight: 600; font-family: var(--Epilogue-font)">new episodes listing jozi <span style="color: var(--red-color); font-weight: 600; font-family: var(--Raleway-font); text-transform: uppercase; font-size: 16px">season 2</span>
+                                    exclusive to BBC Lifestyle.</p>
+
+                                <div class="d-flex justify-content-center mt-3">
+                                    <p class="mx-4 text-muted card-text" style="text-transform: capitalize"><i class="fa fa-hourglass-start"></i> starts</p>
+                                    <p class="mx-4 text-muted card-text" style="text-transform: capitalize"><i class="fa fa-clock"></i> 6 PM</p>
+                                    <p class="mx-4 text-muted card-text" style="text-transform: capitalize"><i class="fa fa-calendar"></i> weekdays</p>
+                                </div>
+
+                                <div class="d-flex my-2">
+                                    <button class="btn btn-lg text-white bg-dark px-4 rounded-0" style="font-family: var(--Bruno-font); box-shadow: rgba(0, 0, 0, 0.56) 0px 22px 70px 4px;">watch </button>
+                                    <h5 class="my-auto ms-auto"><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star-half-stroke"></i></h5>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col">
+                        <div class="card border-0 rounded-0">
+                            <img src="Pics/Bake_Off_Final.jpg" class="card-img-top rounded-0" alt="">
+
+                            <div class="card-body">
+                                <p class="card-text text text-black" style="color var(--black-color); text-transform: capitalize; font-size: 18px; font-weight: 600; font-family: var(--Epilogue-font)">new episodes listing jozi <span style="color: var(--red-color); font-weight: 600; font-family: var(--Raleway-font); text-transform: uppercase; font-size: 16px">season 2</span>
+                                    exclusive to BBC Lifestyle.</p>
+
+                                <div class="d-flex justify-content-center mt-3">
+                                    <p class="mx-4 text-muted card-text" style="text-transform: capitalize"><i class="fa fa-hourglass-start"></i> starts</p>
+                                    <p class="mx-4 text-muted card-text" style="text-transform: capitalize"><i class="fa fa-clock"></i> 6 PM</p>
+                                    <p class="mx-4 text-muted card-text" style="text-transform: capitalize"><i class="fa fa-calendar"></i> weekdays</p>
+                                </div>
+
+                                <div class="d-flex my-2">
+                                    <button class="btn btn-lg text-white bg-dark px-4 rounded-0" style="font-family: var(--Bruno-font); box-shadow: rgba(0, 0, 0, 0.56) 0px 22px 70px 4px; ">watch </button>
+                                    <h5 class="my-auto ms-auto"><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star-half-stroke"></i></h5>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
 
 
 <!--===JS-------------------------------------------------------------------------------------------------------------->
