@@ -433,6 +433,17 @@
                 </div>
             </section>
 
+<!--===TESTIMONIALS SECTION---------------------------------------------------------------------------------------------------->
+
+            <section class="bg-dark" style="margin-top: 170px; margin-bottom: 150px;">
+                    <div class="container pt-5">
+                        <div class="d-flex" style="margin-top:40px">
+                            <h2 class="text-light" style="text-transform: capitalize; font-weight: 600; font-family: var(--Epilogue-font);">what our viewers say</h2>
+                        </div>
+                    </div>
+            </section>
+
+
 
 <!--===JS-------------------------------------------------------------------------------------------------------------->
 <!--===BOOTSTRAP------------------------------------------------------------------------------------------------------->
