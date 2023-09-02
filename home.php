@@ -409,7 +409,7 @@
 
                     <div class="col">
                         <div class="card border-0 rounded-0 pt-5">
-                            <img src="Pics/ComeDineWithMe_Edited_2.jpg" class="card-img-top rounded-0" alt="">
+                            <img src="Pics/Blog_2.jpg" class="card-img-top rounded-0" alt="">
                             <div class="card-body">
                                 <p class="card-text text text-black pt-5" style="color var(--black-color); text-transform: capitalize; font-size: 18px; font-weight: 600; font-family: var(--Epilogue-font)"> 01 Sep 2023 </p>
                                 <p class="card-text text text-black pt-3" style="color var(--black-color); text-transform: capitalize; font-size: 18px; font-weight: 600; font-family: var(--Epilogue-font)">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores, nisi? <span style="color: var(--red-color); font-weight: 600; font-family: var(--Raleway-font); text-transform: uppercase; font-size: 16px">season 2</span>
