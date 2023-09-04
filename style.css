@@ -357,4 +357,21 @@
         box-shadow: rgba(0, 0, 0, 0.56) 0px 22px 70px 4px;
     }
 
-/*--===FAQS SECTION CSS-----------------------------------------------------------------------------------------------*/
+/*--===FOOTER SECTION CSS---------------------------------------------------------------------------------------------*/
+
+    .bg-footer {
+        background: var(--black-color);
+        padding: 50px 0 30px;
+    }
+
+    .text-links {
+        text-transform: capitalize;
+        text-decoration: none;
+    }
+
+    .text-links a {
+        list-style: none;
+        text-decoration: none;
+        color: var(--white-color);
+
+    }

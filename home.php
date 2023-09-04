@@ -388,7 +388,7 @@
 <!--===BLOG SECTION---------------------------------------------------------------------------------------------------->
 
             <section id="blog-sec" class="container" style="margin-top: 170px; margin-bottom: 150px;">
-                <h1 style="font-family: var(--Epilogue-font); text-transform: uppercase; color: var(--red-color); ">our blog</h1>
+                <h1 style="font-family: var(--Epilogue-font); text-transform: uppercase; color: var(--red-color)";>our blog</h1>
                 <div class="d-flex">
                     <h2 style="text-transform: capitalize; font-weight: 600; font-family: var(--Epilogue-font);"><i class="bi bi-dash-lg"></i>latest lifestyle vibes</h2>
                         <button class="btn text-white bg-dark px-4 btn-md ms-auto rounded-0" style="font-family: var(--Raleway-font); font-size: 15px; text-transform: uppercase; font-weight: 600;"> more articles</button>
@@ -560,6 +560,39 @@
                     </div>
                 </div>
             </section>
+
+<!--===FOOTER SECTION ACCORDION---------------------------------------------------------------------------------------->
+
+        <section>
+            <footer class="bg-dark bg-footer" style="margin-top: 170px">
+                <div class="container pt-5 pb-4" style="margin-top: 50px">
+                    <div class="row">
+                        <div class="col-lg-6">
+                            <h5 class="text-light">about us</h5>
+                            <p class="text-light">Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                                Cum cupiditate enim illo libero, nam nisi omnis qui quisquam quo unde.</p>
+                                    <p class="text-light"><i class="fa fa-location"></i> 123 456 987</p>
+                                    <p class="text-light"><i class="fa fa-phone"></i> (+) 0123 456 987</p>
+                                    <p class="text-light"><i class="fa fa-envelope"></i> info@bbclifestyle.com</p>
+                        </div>
+
+                            <div class="col-lg-3">
+                                <h5 class="text-light">quick links</h5>
+                                    <ul class="text text-links">
+                                            <li><a href="">home</a></li>
+                                            <li><a href="">about</a></li>
+                                            <li><a href="">services</a></li>
+                                            <li><a href="">work</a></li>
+                                            <li><a href="">blog</a></li>
+                                            <li><a href="">faqs</a></li>
+                                            <li><a href="">contact</a></li>
+                                    </ul>
+                            </div>
+
+                    </div>
+                </div>
+            </footer>
+        </section>
 
 <!--===JS-------------------------------------------------------------------------------------------------------------->
 <!--===BOOTSTRAP------------------------------------------------------------------------------------------------------->
