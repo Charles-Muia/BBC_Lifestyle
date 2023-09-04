@@ -223,9 +223,9 @@
 <!--===OUR SERVICES SECTION-------------------------------------------------------------------------------------------->
 
         <section id="service-sec" class="container" style="margin-top: 130px; margin-bottom: 150px;">
-            <p style="font-family: var(--Epilogue-font); font-size: 27px; text-transform: uppercase; color: var(--red-color); font-weight: 600" class="pt-5">new season</p>
+            <h1 style="font-family: var(--Epilogue-font); text-transform: uppercase; color: var(--red-color);" class="pt-5">new season</h1>
                 <div class="d-flex">
-                    <h2 style="text-transform: capitalize; font-weight: 600; font-family: var(--Epilogue-font)">listing jozi</h2>
+                    <h2 style="text-transform: capitalize; font-weight: 600; font-family: var(--Epilogue-font)"><i class="bi bi-dash-lg"></i>listing jozi</h2>
                         <h6 style="font-family: var(--Epilogue-font); text-transform: capitalize; font-weight: 600; font-size: 18px;" class="ms-auto">more episodes<span style="font-size: 30px; font-weight: 600; color: var(--red-color)" class="arrow-icon"> &rarr;</span></h6>
                 </div>
 
@@ -347,8 +347,8 @@
 <!--===ABOUT SECTION--------------------------------------------------------------------------------------------------->
 
             <section class="about abt-sec" style="margin-top: 150px">
-                <div class="text-center pb-5" style="font-family: var(--Epilogue-font); font-size: 27px; text-transform: uppercase; color: var(--red-color); font-weight: 600">
-                    <h2 style="margin-bottom: 40px">our services</h2>
+                <div class="text-center pb-5" style="font-family: var(--Epilogue-font); text-transform: uppercase; color: var(--red-color); font-weight: 600">
+                    <h1 style="margin-bottom: 40px">our services</h1>
                 </div>
 
                     <div class="container">
@@ -388,9 +388,9 @@
 <!--===BLOG SECTION---------------------------------------------------------------------------------------------------->
 
             <section id="blog-sec" class="container" style="margin-top: 170px; margin-bottom: 150px;">
-                <h2 style="font-family: var(--Epilogue-font); font-size: 27px; text-transform: uppercase; color: var(--red-color); font-weight:">our blog</h2>
+                <h1 style="font-family: var(--Epilogue-font); text-transform: uppercase; color: var(--red-color); ">our blog</h1>
                 <div class="d-flex">
-                    <h2 style="text-transform: capitalize; font-weight: 600; font-family: var(--Epilogue-font);">latest lifestyle vibes</h2>
+                    <h2 style="text-transform: capitalize; font-weight: 600; font-family: var(--Epilogue-font);"><i class="bi bi-dash-lg"></i>latest lifestyle vibes</h2>
                         <button class="btn text-white bg-dark px-4 btn-md ms-auto rounded-0" style="font-family: var(--Raleway-font); font-size: 15px; text-transform: uppercase; font-weight: 600;"> more articles</button>
                 </div>
 
@@ -499,7 +499,67 @@
                  </div>
             </section>
 
+<!--===FAQS SECTION---------------------------------------------------------------------------------------------------->
 
+            <section class="faq faqs-sec" style="margin-bottom: 150px">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-5 col-md-12 col-12 mt-md-3">
+                            <div class="about-text">
+                                <h1 style="font-family: var(--Epilogue-font); text-transform: uppercase; color: var(--red-color); font-weight:"><i class="bi bi-dash-lg"></i>FAQS</h1>
+                                <p class="pt-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                                    Ad assumenda blanditiis dignissimos doloremque modi perferendis quae saepe tempore ullam velit.
+                                    A consequuntur deleniti dolore ducimus eos expedita impedit in ipsam iure minima, necessitatibus nemo nulla odio porro quae ratione repellendus sint tenetur vitae voluptatem!
+                                    Accusamus asperiores commodi odit quidem quos sit tempora voluptates.
+                                    Alias asperiores assumenda autem deserunt.</p>
+                                <br>
+<!--                                <a href="#" class="btn text-white bg-dark px-3 rounded-0" style="font-family: var(--Raleway-font); font-size: 15px; text-transform: uppercase; font-weight: 600; ">learn more</a>-->
+                            </div>
+                        </div>
+
+<!--===FAQS SECTION ACCORDION------------------------------------------------------------------------------------------>
+
+                        <div class="accordion col-lg-7 mt-3" id="accordionExample">
+                            <div class="accordion-item bg-dark text-light">
+                                <h2 class="accordion-header">
+                                    <button style="background: var(--white-shade); font-size: 18px;" class="accordion-button text-primary" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                                        Accordion Item #1
+                                    </button>
+                                </h2>
+                                <div id="collapseOne" class="accordion-collapse collapse show" data-bs-parent="#accordionExample">
+                                    <div style="font-size: 18px;" class="accordion-body">
+                                        <strong>This is the first item's accordion body.</strong> It is shown by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="accordion-item bg-dark text-light">
+                                <h2 class="accordion-header">
+                                    <button style="background: var(--white-shade); font-size: 18px;" class="accordion-button collapsed text-primary" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                        Accordion Item #2
+                                    </button>
+                                </h2>
+                                <div id="collapseTwo" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                                    <div style="font-size: 18px;" class="accordion-body">
+                                        <strong>This is the second item's accordion body.</strong> It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="accordion-item bg-dark text-light">
+                                <h2 class="accordion-header">
+                                    <button style="background: var(--white-shade);font-size: 18px;" class="accordion-button collapsed text-primary" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                                        Accordion Item #3
+                                    </button>
+                                </h2>
+                                <div id="collapseThree" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                                    <div style="font-size: 18px;" class="accordion-body">
+                                        <strong>This is the third item's accordion body.</strong> It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
 
 <!--===JS-------------------------------------------------------------------------------------------------------------->
 <!--===BOOTSTRAP------------------------------------------------------------------------------------------------------->
