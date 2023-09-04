@@ -589,7 +589,20 @@
                                     </ul>
                             </div>
 
+                                <div class="col-lg-3">
+                                    <h5 class="text-light">our socials</h5>
+                                        <ul class="list-unstyled">
+                                            <li><a href="#"><i class="fa-brands fa-facebook"></i>facebook</a></li>
+                                            <li><a href="#"><i class="fa-brands fa-youtube"></i>facebook</a></li>
+                                            <li><a href="#"><i class="fa-brands fa-instagram"></i>facebook</a></li>
+                                            <li><a href="#"><i class="fa-brands fa-linkedin"></i>facebook</a></li>
+                                        </ul>
+                                </div>
+
                     </div>
+                        <hr>
+                            <div></div>
+
                 </div>
             </footer>
         </section>
