@@ -22,6 +22,7 @@
 
 <!--===BOOTSTRAP CDN--------------------------------------------------------------------------------------------------->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-4bw+/aepP/YC94hEpVNVgiZdgIC5+VKNBQNGCHeKRQN+PtmoHDEXuppvnDJzQIu9" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css">
 
 
 <!--===GOOGLE FONTS---------------------------------------------------------------------------------------------------->
@@ -225,7 +226,7 @@
             <p style="font-family: var(--Epilogue-font); font-size: 27px; text-transform: uppercase; color: var(--red-color); font-weight: 600" class="pt-5">new season</p>
                 <div class="d-flex">
                     <h2 style="text-transform: capitalize; font-weight: 600; font-family: var(--Epilogue-font)">listing jozi</h2>
-                        <h6 style="font-family: var(--Epilogue-font); text-transform: capitalize; font-weight: 600; font-size: 18px;" class="ms-auto">more episodes<span style="font-size: 30px; font-weight: 600; color: var(--red-color) " class="arrow-icon"> &rarr;</span></h6>
+                        <h6 style="font-family: var(--Epilogue-font); text-transform: capitalize; font-weight: 600; font-size: 18px;" class="ms-auto">more episodes<span style="font-size: 30px; font-weight: 600; color: var(--red-color)" class="arrow-icon"> &rarr;</span></h6>
                 </div>
 
                 <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4 mt-2">
@@ -334,7 +335,7 @@
                                                 <img src="Pics/New_Look.jpg" alt="" style="width: 55%; margin-top: 5px">
                                             </div>
 
-                                            <div class="col-md-3 col-sm-6">
+                                            <div class="col-md-3 col-sm-6 pb-5">
                                                 <img src="Pics/New_Look_2.png" alt="" style="width: 55%; display: inline-block; margin-top: -5px">
                                             </div>
 
@@ -367,15 +368,15 @@
 
                                   <div class="col-lg-7 col-md-12 col-12 ps-lg-5 mt-md-5" style="margin-top: 40px">
                                         <div class="about-text">
-                                            <h2>brimming with vibrant, <br> fresh and exciting programmes that set trends.</h2>
-                                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                                            <h2>Brimming with vibrant, <br> fresh and exciting programmes that set trends.</h2>
+                                            <p class="pt-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit.
                                                 Ad assumenda blanditiis dignissimos doloremque modi perferendis quae saepe tempore ullam velit.
                                                 A consequuntur deleniti dolore ducimus eos expedita impedit in ipsam iure minima, necessitatibus nemo nulla odio porro quae ratione repellendus sint tenetur vitae voluptatem!
                                                 Accusamus asperiores commodi odit quidem quos sit tempora voluptates.
                                                 Alias asperiores assumenda autem deserunt provident quidem tempore! At ex pariatur quas sequi voluptatem.
                                                 Aperiam assumenda, earum, eveniet inventore nisi nostrum officiis omnis reiciendis rerum sequi tempora vel voluptatibus? Asperiores est iste quo repellendus reprehenderit ut?
                                                 Amet aspernatur corporis dolorum ipsum laboriosam laborum placeat possimus quas rem?</p>
-
+                                                <br>
                                                 <a href="#" class="btn text-white bg-dark px-3 rounded-0" style="font-family: var(--Raleway-font); font-size: 15px; text-transform: uppercase; font-weight: 600; ">learn more</a>
 
                                         </div>
@@ -435,12 +436,67 @@
 
 <!--===TESTIMONIALS SECTION---------------------------------------------------------------------------------------------------->
 
-            <section class="bg-dark" style="margin-top: 170px; margin-bottom: 150px;">
-                    <div class="container pt-5">
+            <section class="bg-dark pt-5 pb-5" style="margin-top: 170px; margin-bottom: 160px;">
+                    <div class="container pt-5 pb-4">
                         <div class="d-flex" style="margin-top:40px">
-                            <h2 class="text-light" style="text-transform: capitalize; font-weight: 600; font-family: var(--Epilogue-font);">what our viewers say</h2>
+                            <h2 class="text-light" style="text-transform: capitalize; font-weight: 600; font-family: var(--Epilogue-font);">what our viewers say
+                                <br> about us </h2>
+                                <div class="ms-auto">
+                                    <button class="btn btn-md text-light"><span class="arrow-icon mx-2" style="font-size: 30px; font-weight: 600; color: var(--red-color);">&larr;</span></button>
+                                    <button class="btn btn-md text-light"><span class="arrow-icon mx-2" style="font-size: 30px; font-weight: 600; color: var(--red-color);">&rarr;</span></button>
+                                </div>
                         </div>
                     </div>
+
+                 <div class="container mx-auto row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4 pb-5 mt-4">
+                     <div class="card border-0 rounded-0 bg-transparent">
+                        <div class="row g-0">
+                            <div class="col-md-4">
+                                <img src="Pics/TestiM.jpg" class="img-fluid" alt="...">
+                            </div>
+
+                            <div class="col-md-7">
+                                <div class="card-body">
+                                    <h5 class="card-title">Whiskers Bean</h5>
+                                    <p class="card-text text-light" style="font-size: 18px">&ldquo;This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.&rdquo;</p>
+                                    <p class="card-text"  style="font-size: 19px; text-align: center"><small class="text-light"><i class="bi bi-dash-lg"></i> Managing Director</small></p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                     <div class="card border-0 rounded-0 bg-transparent">
+                         <div class="row g-0">
+                             <div class="col-md-4">
+                                 <img src="Pics/TestiM_1.jpg" class="img-fluid" alt="...">
+                             </div>
+
+                             <div class="col-md-7">
+                                 <div class="card-body">
+                                     <h5 class="card-title">Whiskers Bean</h5>
+                                     <p class="card-text text-light" style="font-size: 18px">&ldquo;This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.&rdquo;</p>
+                                     <p class="card-text"  style="font-size: 19px; text-align: center"><small class="text-light"><i class="bi bi-dash-lg"></i> Managing Director</small></p>
+                                 </div>
+                             </div>
+                         </div>
+                     </div>
+
+                     <div class="card border-0 rounded-0 bg-transparent">
+                         <div class="row g-0">
+                             <div class="col-md-4">
+                                 <img src="Pics/TestiM_2.jpg" class="img-fluid" alt="...">
+                             </div>
+
+                             <div class="col-md-7">
+                                 <div class="card-body">
+                                     <h5 class="card-title">Whiskers Bean</h5>
+                                     <p class="card-text text-light" style="font-size: 18px">&ldquo;This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.&rdquo;</p>
+                                     <p class="card-text"  style="font-size: 19px; text-align: center"><small class="text-light"><i class="bi bi-dash-lg"></i> Managing Director</small></p>
+                                 </div>
+                             </div>
+                         </div>
+                     </div>
+                 </div>
             </section>
 
 
