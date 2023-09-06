@@ -436,3 +436,23 @@
         color: var(--red-color);
     }
 
+/*--===CONTACT US SECTION CSS-----------------------------------------------------------------------------------------*/
+
+    .text-contact {
+        text-transform: capitalize;
+        color: var(--red-color);
+    }
+
+    #lab-txt {
+        text-transform: capitalize;
+        font-family: var(--Jost-font);
+        font-size: 16px;
+        font-weight: 600;
+    }
+
+    .button-message {
+        color: var(--white-color);
+        text-transform: uppercase;
+        font-family: var(--Raleway-font);
+    }
+
