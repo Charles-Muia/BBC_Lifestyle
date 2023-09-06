@@ -373,5 +373,47 @@
         list-style: none;
         text-decoration: none;
         color: var(--white-color);
+        text-transform: uppercase;
+        line-height: 3;
+    }
 
+    .text-links a:hover {
+        color: var(--red-color);
+    }
+
+    .text-social {
+        text-transform: uppercase;
+        font-size: 20px;
+        line-height: 3;
+        padding: 0;
+        margin-left: 15px;
+        justify-content: center;
+        width: 50px;
+        height: 50px;
+    }
+
+    .text-social i {
+        background: var(--white-shade);
+        padding: 10px 10px;
+        border-radius: 50%;
+        color: var(--black-color);
+    }
+
+    .text-social i:hover {
+        color: var(--red-color);
+        background: var(--white-shade);
+    }
+
+    .title {
+        text-transform: uppercase;
+        margin-bottom: 20px;
+    }
+
+    .para {
+        line-height: 2;
+    }
+
+    .line {
+        color: var(--white-shade);
+        margin-bottom: 3rem;
     }

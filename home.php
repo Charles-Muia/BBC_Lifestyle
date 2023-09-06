@@ -91,27 +91,27 @@
                         </li>
 
                         <li class="nav-item">
-                            <a class="nav-link" href="#">about</a>
+                            <a class="nav-link" href="#about-sec">about</a>
                         </li>
 
                         <li class="nav-item">
-                            <a class="nav-link" href="#">our services</a>
+                            <a class="nav-link" href="#services-sec">our services</a>
                         </li>
 
                         <li class="nav-item">
-                            <a class="nav-link" href="#">our work</a>
+                            <a class="nav-link" href="#work-sec">our work</a>
                         </li>
 
                         <li class="nav-item">
-                            <a class="nav-link" href="#">blog</a>
+                            <a class="nav-link" href="#blog-sec">blog</a>
                         </li>
 
                         <li class="nav-item">
-                            <a class="nav-link" href="#">faqs</a>
+                            <a class="nav-link" href="#faqs">faqs</a>
                         </li>
 
                         <li class="nav-item" >
-                            <a class="nav-link btn text-white bg-dark px-3 rounded-0" href="#">contact us</a>
+                            <a class="nav-link btn text-white bg-dark px-3 rounded-0" href="#contact">contact us</a>
                         </li>
 
                 </div>
@@ -222,7 +222,7 @@
 
 <!--===OUR SERVICES SECTION-------------------------------------------------------------------------------------------->
 
-        <section id="service-sec" class="container" style="margin-top: 130px; margin-bottom: 150px;">
+        <section id="work-sec" class="container" style="margin-top: 130px; margin-bottom: 150px;">
             <h1 style="font-family: var(--Epilogue-font); text-transform: uppercase; color: var(--red-color);" class="pt-5">new season</h1>
                 <div class="d-flex">
                     <h2 style="text-transform: capitalize; font-weight: 600; font-family: var(--Epilogue-font)"><i class="bi bi-dash-lg"></i>listing jozi</h2>
@@ -301,9 +301,9 @@
                 </div>
         </section>
 
-<!--===OUR WORK SECTION------------------------------------------------------------------------------------------------>
+<!--===ABOUT SECTION--------------------------------------------------------------------------------------------------->
 
-        <section class="bg-dark" style="margin-top: -15%;">
+        <section id="about-sec" class="bg-dark" style="margin-top: -15%;">
                 <div class="container pt-5">
                     <div class="row" style="margin-top: 165px; margin-bottom: 100px">
                         <div class="col-lg-4">
@@ -344,9 +344,9 @@
                 </div>
         </section>
 
-<!--===ABOUT SECTION--------------------------------------------------------------------------------------------------->
+<!--===OUR SERVICES SECTION-------------------------------------------------------------------------------------------->
 
-            <section class="about abt-sec" style="margin-top: 150px">
+            <section id="services-sec" class="about abt-sec" style="margin-top: 150px">
                 <div class="text-center pb-5" style="font-family: var(--Epilogue-font); text-transform: uppercase; color: var(--red-color); font-weight: 600">
                     <h1 style="margin-bottom: 40px">our services</h1>
                 </div>
@@ -501,7 +501,7 @@
 
 <!--===FAQS SECTION---------------------------------------------------------------------------------------------------->
 
-            <section class="faq faqs-sec" style="margin-bottom: 150px">
+            <section id="faqs" class="faq faqs-sec" style="margin-bottom: 150px;">
                 <div class="container">
                     <div class="row">
                         <div class="col-lg-5 col-md-12 col-12 mt-md-3">
@@ -568,16 +568,16 @@
                 <div class="container pt-5 pb-4" style="margin-top: 50px">
                     <div class="row">
                         <div class="col-lg-6">
-                            <h5 class="text-light">about us</h5>
-                            <p class="text-light">Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                                Cum cupiditate enim illo libero, nam nisi omnis qui quisquam quo unde.</p>
+                            <h5 class="text-light title">about us</h5>
+                            <p class="text-light para">Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                                <br> Cum cupiditate enim illo libero, nam nisi omnis qui quisquam quo unde.</p>
                                     <p class="text-light"><i class="fa fa-location"></i> 123 456 987</p>
                                     <p class="text-light"><i class="fa fa-phone"></i> (+) 0123 456 987</p>
                                     <p class="text-light"><i class="fa fa-envelope"></i> info@bbclifestyle.com</p>
                         </div>
 
                             <div class="col-lg-3">
-                                <h5 class="text-light">quick links</h5>
+                                <h5 class="text-light title">quick links</h5>
                                     <ul class="text text-links">
                                             <li><a href="">home</a></li>
                                             <li><a href="">about</a></li>
@@ -589,26 +589,32 @@
                                     </ul>
                             </div>
 
-                                <div class="col-lg-3">
-                                    <h5 class="text-light">our socials</h5>
-                                        <ul class="list-unstyled">
-                                            <li><a href="#"><i class="fa-brands fa-facebook"></i>facebook</a></li>
-                                            <li><a href="#"><i class="fa-brands fa-youtube"></i>facebook</a></li>
-                                            <li><a href="#"><i class="fa-brands fa-instagram"></i>facebook</a></li>
-                                            <li><a href="#"><i class="fa-brands fa-linkedin"></i>facebook</a></li>
+                                <div class="col-lg-3 text-dark social">
+                                    <h5 class="text-light title">our socials</h5>
+                                        <ul class="text text-social">
+                                            <li><a href="#"><i class="fa-brands fa-facebook"></i></a></li>
+                                            <li><a href="#"><i class="fa-brands fa-youtube"></i></a></li>
+                                            <li><a href="#"><i class="fa-brands fa-instagram"></i></a></li>
+                                            <li><a href="#"><i class="fa-brands fa-linkedin"></i></a></li>
+                                            <li><a href="#"><i class="fa-brands fa-pinterest"></i></a></li>
                                         </ul>
                                 </div>
 
                     </div>
-                        <hr>
-                            <div></div>
-
+                            <br>
+                        <hr class="line">
+                            <div class="row">
+                                <div class="col-lg-12">
+                                    <p class="text-center text-light">Copyright &copy; 2023 . <a href="#">BBC Lifestyle</a> . All Rights Reserved</p>
+                                </div>
+                            </div>
                 </div>
             </footer>
         </section>
 
 <!--===JS-------------------------------------------------------------------------------------------------------------->
 <!--===BOOTSTRAP------------------------------------------------------------------------------------------------------->
+
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-HwwvtgBNo3bZJJLYd8oVXjrBZt8cqVSpeBNS5n7C8IVInixGAoxmnlMuBnhbgrkm" crossorigin="anonymous"></script>
 
 </body>
