@@ -111,7 +111,7 @@
                         </li>
 
                         <li class="nav-item" >
-                            <a class="nav-link btn text-white bg-dark px-3 rounded-0" href="#contact">contact us</a>
+                            <a class="nav-link btn text-white bg-dark px-3 rounded-0" href="contact.php">contact us</a>
                         </li>
 
                 </div>
