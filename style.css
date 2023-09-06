@@ -394,7 +394,7 @@
 
     .text-social i {
         background: var(--white-shade);
-        padding: 10px 10px;
+        padding: 15px 15px;
         border-radius: 50%;
         color: var(--black-color);
     }
@@ -417,3 +417,22 @@
         color: var(--white-shade);
         margin-bottom: 3rem;
     }
+
+    .number {
+        margin-left: 30px;
+        margin-top: 20px;
+    }
+
+    .number i {
+        padding: 15px 15px;
+        background: var(--white-shade);
+        color: var(--black-color);
+        border-radius: 50%;
+        cursor: pointer;
+        margin: 0 10px;
+    }
+
+    .number i:hover {
+        color: var(--red-color);
+    }
+

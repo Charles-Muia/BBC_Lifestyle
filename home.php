@@ -570,10 +570,10 @@
                         <div class="col-lg-6">
                             <h5 class="text-light title">about us</h5>
                             <p class="text-light para">Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                                <br> Cum cupiditate enim illo libero, nam nisi omnis qui quisquam quo unde.</p>
-                                    <p class="text-light"><i class="fa fa-location"></i> 123 456 987</p>
-                                    <p class="text-light"><i class="fa fa-phone"></i> (+) 0123 456 987</p>
-                                    <p class="text-light"><i class="fa fa-envelope"></i> info@bbclifestyle.com</p>
+                                Cum cupiditate enim illo libero, nam nisi omnis qui quisquam quo unde.</p>
+                                    <p class="text-light number"><i class="fa fa-location"></i> 123 456 987</p>
+                                    <p class="text-light number"><i class="fa fa-phone"></i> (+) 0123 456 987</p>
+                                    <p class="text-light number"><i class="fa fa-envelope"></i> info@bbclifestyle.com</p>
                         </div>
 
                             <div class="col-lg-3">
