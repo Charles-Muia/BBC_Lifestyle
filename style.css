@@ -257,14 +257,14 @@
     }
 
     .carousel-caption h5 {
-        font-size: 35px;
+        font-size: 45px;
         color: var(--black-color);
         text-transform: uppercase;
-        font-weight: 600;
+        /*font-weight: 600;*/
         letter-spacing: 2px;
         line-height: 45px;
         text-align: center;
-        font-family: var(--Montserrat-font);
+        font-family: 'Montserrat', sans-serif;
     }
 
     /*.carousel-caption .master-chef {*/

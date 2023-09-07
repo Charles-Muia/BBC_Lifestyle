@@ -26,6 +26,9 @@
 
 
 <!--===GOOGLE FONTS---------------------------------------------------------------------------------------------------->
+
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;700;900&display=swap" rel="stylesheet">
+
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Dosis&display=swap" rel="stylesheet">
@@ -174,21 +177,21 @@
                         <img src="Pics/CDWM_ZA3_Use_2.png" class="d-block w-100" alt="...">
                         <div class="carousel-caption d-none d-md-block">
                             <p>1 / 3</p>
-                            <h5>new season: <br> come dine with me </h5>
+                            <h5>new season: <br> come dine with <br> me </h5>
                         </div>
                     </div>
                 <div class="carousel-item" data-bs-interval="2000">
                         <img src="Pics/FD_3.jpg" class="d-block w-100" alt="...">
                         <div class="carousel-caption d-none d-md-block">
                             <p>2 / 3</p>
-                            <h5>Second slide label</h5>
+                            <h5>dinner date: <br> dating show <br> premier series </h5>
                         </div>
                 </div>
                 <div class="carousel-item">
                         <img src="Pics/MC.jpg" class="d-block w-100" alt="...">
                         <div class="carousel-caption d-none d-md-block">
                             <p>3 / 3</p>
-                            <h5 class="master-chef">master chef: <br> the professionals</h5>
+                            <h5 class="master-chef">master chef: <br> the <br> professionals</h5>
                         </div>
                 </div>
             </div>
